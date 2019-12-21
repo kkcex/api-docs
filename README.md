@@ -9,7 +9,8 @@ KKCex 同时支持 Rest API 与 WebSocket API。
 建议开发者进行币币交易或者资产提现等功能时使用 Rest API，获取市场行情和买卖深度等信息使用 WebSocket API。
 
 ```js
-如使用中遇到任何问题，请加技术 sugram 群: API（加群时请注明用户名和编程语言），
+如使用中遇到任何问题，请扫二维码，添加 sugram 技术群: API（加群时请注明用户名和编程语言），
 我们将尽力帮您解答疑惑。
-![Image](https://raw.githubusercontent.com/kkcex/api-docs/master/sugram.jpg)
+
 ```
+![Image](https://raw.githubusercontent.com/kkcex/api-docs/master/sugram.jpg)
