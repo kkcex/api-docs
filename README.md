@@ -11,5 +11,5 @@ KKCex 同时支持 Rest API 与 WebSocket API。
 ```js
 如使用中遇到任何问题，请加技术 sugram 群: API（加群时请注明用户名和编程语言），
 我们将尽力帮您解答疑惑。
-
+![Image](https://github.com/kkcex/api-docs/master/WechatIMG722.jpeg)
 ```
